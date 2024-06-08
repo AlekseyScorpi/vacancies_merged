@@ -1,0 +1,6 @@
+[submodule "vacancies_site"]
+	path = vacancies_site
+	url = https://github.com/AlekseyScorpi/vacancies_site
+[submodule "vacancies_server"]
+	path = vacancies_server
+	url = https://github.com/AlekseyScorpi/vacancies_server
